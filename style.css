@@ -1,0 +1,456 @@
+
+.introduction_page{
+background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, .8) ), url(../images/bg.jpg);
+	background-size: cover;
+	/*opacity : 0.9;*/
+	/*background-color: transparent;*/
+	background-attachment: fixed;
+	color: white;
+	width: 100%;
+	height: 900px;
+	
+}
+
+.navbar-default{
+	background: transparent;
+	border:none;
+}
+
+.navbar-fixed-top {
+    top: 0;
+    background-color: black;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.intro_menu{
+	text-align: center;
+}
+
+.clearfix{
+	clear: both;
+}
+
+.logo{
+	
+	/*border:2px solid blue;  */
+}
+
+
+.Jonathon img{
+	margin-top: 140px;
+	height: 150px;
+	width: 150px;
+	border-radius: 50%;
+
+
+}
+
+.Jonathon p{
+	font-size: 20px;
+	margin-top: 40px;
+	padding:0 160px 0 160px;
+}
+
+
+.brief_page{
+	border:2px solid black;
+	overflow: clear;
+}
+
+#download_btn{
+border-radius: 30px;
+background-color: #FFCB2F; 
+color: white;
+height: 40px;
+width: 160px;
+border: 1px solid #FFCB2F;
+}
+
+.Jonathon_photo{
+	text-align: center;
+	/*border:2px solid red;*/
+}
+.Jonathon_photo img{
+	width: 100%;
+	padding-bottom: 50px;
+}
+
+
+.Service_section{
+	background-color: #F6F6F6;
+	padding-top: 30px;
+	text-align: center;
+	margin-bottom: 20px;
+	height: 650px;
+	
+}
+
+.Service_section h2{
+font-weight: bold;
+}
+
+
+.services{
+	text-align: center;
+	margin: 0 auto;
+	padding: 40px 10px 40px 10px;
+	background-color: white;
+	border: 12px solid #F6F6F6;
+}
+
+.services h4{
+	font-weight: bold;
+}
+.icon{
+	color: #FFCB2F;
+	width: 50px;
+    height: 50px;
+	border: 1px solid #FFCB2F;
+	box-sizing: border-box;
+	border-radius: 50%;
+	padding-top: 4%;
+	display:inline-block;
+	vertical-align: bottom;
+	  
+
+}	
+
+
+.icon:hover{
+	background-color: #FFCB2F;
+	color: white;
+}
+
+
+.works_and_codes{
+	width: 100%;
+	height: 400px;
+	margin: 0 auto;
+
+}
+
+
+.completion {
+	text-align: center;
+	color: #FFCB2F;
+	padding: 150px 30px 70px 30px;
+	
+}
+
+
+.completion span{
+	font-weight: bold;
+	color: #FFCB2F;
+	font-size: 32px;
+}
+
+
+.completion h5{
+	
+	color: white;
+	font-size: 18px;
+}
+
+.experience_section{
+
+	background-color: #F6F6F6;
+	width: 100%;
+	
+	margin: 0 auto;
+
+}
+
+
+.all_works{
+	
+	margin-top: 70px;
+	
+	text-align: center;
+	width: 100%;
+	height: 800px;
+}
+
+
+.individual_works{
+	
+width: 100%;
+}
+
+
+.recent_work_section{
+	text-align: center;
+	margin-top: 50px;
+
+}
+.single-service{
+	width: 27%;
+	background-color: white;
+	padding: 5% 3%;
+	float: left;
+	margin: 2% 2%;
+}
+
+#single-service-1{
+	position: relative;
+	
+}
+#single-service-2{
+	position: relative;
+	
+}
+#single-service-3{
+	position: relative;
+	
+}
+#single-service-4{
+	position: relative;
+	
+}
+#single-service-5{
+	position: relative;
+	
+}
+#single-service-6{
+	position: relative;
+	
+}
+
+.single-picture{
+	float: left;
+	
+	margin: 0;
+	padding: 0;
+	width: 29%;
+	margin: 2% 2%;
+}
+
+.single-picture img{
+	width: 100%;
+}
+
+
+#work_caption_1{
+	display: none;
+	position: absolute;
+	bottom: 0px;
+	text-align: left;
+
+}
+
+#work_caption_2{
+	display: none;
+	position: absolute;
+	bottom: 0px;
+	text-align: left;
+
+}
+
+#work_caption_3{
+	display: none;
+	position: absolute;
+	bottom: 0px;
+	text-align: left;
+
+}
+
+#work_caption_4{
+	display: none;
+	position: absolute;
+	bottom: 0px;
+	text-align: left;
+
+}
+
+#work_caption_5{
+	display: none;
+	position: absolute;
+	bottom: 0px;
+	text-align: left;
+
+}
+
+#work_caption_6{
+	display: none;
+	position: absolute;
+	bottom: 0px;
+	text-align: left;
+
+}
+
+.single-picture h4,h5{
+	margin: 0;
+	padding: 0;
+	/*border: 1px solid red;*/
+}
+
+
+.recommendaton_section{
+	background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 1) ),  url(../images/testi.jpeg);
+	/*background-position: 10px 0;*/
+	background-size: cover;
+	background-repeat: no-repeat;
+	opacity: .9;
+	/*height: 600px;  */
+	color: white;
+	text-align: center;
+	padding: 100px 0px;
+}
+
+.clients_view{
+
+}
+
+.recommendaton_section i{
+	color: #FFCB2F;
+	line-height: 40px;
+}
+
+
+.comment{
+	width: 40px;
+	height: 40px;
+	margin: 10px auto;
+	margin-top: 50px;
+	border-radius: 50%;
+	background-color: white;
+	text-align: center;
+	/*line-height: 30px;*/
+}
+
+.btn-prop{
+
+	padding: 16px 16px;
+	border-radius: 45px;
+	margin: 0 5px;
+ 	border: 1px solid #FFCB2F;   
+	background-color: #fff;
+
+}
+
+.btn-prop:hover{
+background-color: #FFCB2F; 
+
+}
+
+
+
+
+.project_details{
+	background: linear-gradient( rgba(0, 0, 0, -3.2), rgba(0, 0, 0, 1) ), url(../images/bg.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	color: white;
+	
+}
+
+
+.experience_section{
+	background-color: #F6F6F6;
+	padding-top: 30px;
+	padding-bottom: 50px;
+	height: 100%;
+}
+
+.all_experiences{
+	text-align: center;
+}
+
+.courses_completed{
+    width: 41%;
+    background-color: white;
+    line-height: 35px;
+    padding: 5% 3%;
+  /*  
+    
+    margin: 2% 6%;
+    	 */
+}
+
+.course_name{
+	float: left;
+	
+}
+
+.course_name h5{
+	font-weight: bold;
+}
+
+.course_time{
+	float: right;	
+	padding: 0 20px 0 10px;
+	color: white;
+	background-color: #FFCB2F;
+	
+}
+
+.course_duration_details{
+	text-align: left;
+	
+}
+
+
+.courses_completed{
+	
+	padding: 20px 30px 0 20px;
+	border: 12px solid #F6F6F6;
+	
+}
+
+.courses_completed p{
+	text-align: left;
+	padding-top: 30px;
+	
+}
+
+.contact_section{
+	text-align: center;
+}
+
+.contact_ways{
+ /*	margin: 0 auto; */
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+
+.location h4{
+	font-weight: bold;
+}
+
+.form{
+	padding-top: 50px;
+}
+
+#symbol1{
+	float: left;
+}
+.location1 i{
+	padding: 10px;
+	background-color: #FFCB2F;
+	color: white;
+	border-radius: 50%;
+}
+
+.footer{
+	height: 50vh;
+	background-color: black;
+	text-align: center;
+}
+
+.footer-main{
+	padding-top: 10%;
+}
+
+.footer span{
+	color: #FFCB2F;
+	margin-right: 20px;
+	
+}
+
+.footer span:hover{
+	color: #90B9B9;
+	cursor: pointer;
+}
